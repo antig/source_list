@@ -1,0 +1,27 @@
+#http://pkgs.org/download/google-chrome-stable == a good software website
+
+#官方源
+#eb http://http.kali.org/kali kali main non-free contrib
+#eb-src http://http.kali.org/kali kali main non-free contrib
+#eb http://security.kali.org/kali-security kali/updates main contrib non-free 
+ 
+#中科大kali源
+deb http://mirrors.ustc.edu.cn/kali kali main non-free contrib
+deb-src http://mirrors.ustc.edu.cn/kali kali main non-free contrib
+deb http://mirrors.ustc.edu.cn/kali-security kali/updates main contrib non-free
+ 
+#新加坡kali源
+deb http://mirror.nus.edu.sg/kali/kali/ kali main non-free contrib
+deb-src http://mirror.nus.edu.sg/kali/kali/ kali main non-free contrib
+deb http://security.kali.org/kali-security kali/updates main contrib non-free
+deb http://mirror.nus.edu.sg/kali/kali-security kali/updates main contrib non-free
+deb-src http://mirror.nus.edu.sg/kali/kali-security kali/updates main contrib non-free
+ 
+#debian_wheezy国内源 shanghai jiaotong university == very very good
+ 
+deb http://ftp.sjtu.edu.cn/debian wheezy main non-free contrib
+deb-src http://ftp.sjtu.edu.cn/debian wheezy main non-free contrib 
+deb http://ftp.sjtu.edu.cn/debian wheezy-proposed-updates main non-free contrib 
+deb-src http://ftp.sjtu.edu.cn/debian wheezy-proposed-updates main non-free contrib 
+deb http://ftp.sjtu.edu.cn/debian-security wheezy/updates main non-free contrib 
+deb-src http://ftp.sjtu.edu.cn/debian-security wheezy/updates main non-free contrib 
